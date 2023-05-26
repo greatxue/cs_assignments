@@ -16,9 +16,10 @@ public class PatternAwareLetterFreqGuesser implements Guesser {
      *  PATTERN. */
     public char getGuess(String pattern, List<Character> guesses) {
         // TODO: Fill in this method.
-        return '?';
+        private List<String> keepOnlyWordsThatMatchPattern{
+            
+        }
     }
-
     public static void main(String[] args) {
         PatternAwareLetterFreqGuesser palfg = new PatternAwareLetterFreqGuesser("data/example.txt");
         System.out.println(palfg.getGuess("-e--", List.of('e')));

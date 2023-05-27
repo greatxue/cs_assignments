@@ -7,7 +7,7 @@ For each selected bowl, all chips in the bowl are “equally likely”.
     Red: 2  White: 4       Red: 1  White: 2         Red: 5  White: 4
         B1                     B2                        B3
 * Let R={draw a red chip}. We know from the lecture that P (R) = 4/9 .
-* Suppose now that the outcome of the experiment is a red chip, but we don’t know from which bowl the chip was drawn.
+* Suppose now that the outcome of the experiment is a red chip, but we don't know from which bowl the chip was drawn.
  We know from the lecture that   P(B1|R) = 1/4, P(B2|R) = 1/8, P(B3|R) = 5/8.
 The task is to simulate this random experiment 100000 times by computer and check the relative frequencies of the
     event R and the event Bi|R, i = 1, 2, 3.

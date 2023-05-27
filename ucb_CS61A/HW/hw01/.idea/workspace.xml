@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ea4e9418-9698-4f90-b18d-7ab65987cf3c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../ucb_CS61B/proj0/src/aoa/guessers/PatternAwareLetterFreqGuesser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ucb_CS61B/proj0/src/aoa/guessers/PatternAwareLetterFreqGuesser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +30,14 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kevinshuey/Documents/Files/Github/cs_assignments/ucb_CS61A/HW/hw01&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/kevinshuey/Documents/Files/Github/cs_assignments/ucb_CS61A/HW/hw01&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,6 +50,11 @@
       <updated>1684757557052</updated>
       <workItem from="1684757558500" duration="49000" />
       <workItem from="1684758463195" duration="92000" />
+      <workItem from="1685099210415" duration="74000" />
+      <workItem from="1685099471086" duration="229000" />
+      <workItem from="1685099705626" duration="2000" />
+      <workItem from="1685099726957" duration="606000" />
+      <workItem from="1685159969608" duration="202000" />
     </task>
     <servers />
   </component>
@@ -55,5 +71,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hw01$Doctests_in_hw01.coverage" NAME="Doctests in hw01 Coverage Results" MODIFIED="1685099651831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

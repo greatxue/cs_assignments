@@ -49,15 +49,15 @@ public class NaiveLetterFreqGuesser implements Guesser {
             return '?';
         }
         TreeMap<Character, Integer> sortedMap = new TreeMap<>(frequencyMap);
-        for (Character ch: guesses){
+        for (Character ch: guesses) {
             sortedMap.remove(ch);
         }
         int maxFrequency = 0;
         char getguess = '?';
-        for (Map.Entry<Character, Integer> entry : sortedMap.entrySet()){
+        for (Map.Entry<Character, Integer> entry : sortedMap.entrySet()) {
             char c = entry.getKey();
             int frequency = entry.getValue();
-            if (frequency > maxFrequency){
+            if (frequency > maxFrequency) {
                 maxFrequency = frequency;
                 getguess = c;
             }

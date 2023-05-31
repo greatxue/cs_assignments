@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea4e9418-9698-4f90-b18d-7ab65987cf3c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LaTeX/cuhksz_MAT2040/A1/A1.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LaTeX/cuhksz_MAT2040/A1/A1.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cuhksz_STA2001/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cuhksz_STA2001/3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw01.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ucb_CS61B/proj0/out/production/proj0/aoa/guessers/PatternAwareLetterFreqGuesser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ucb_CS61B/proj0/out/production/proj0/aoa/guessers/PatternAwareLetterFreqGuesser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ucb_CS61B/proj0/src/aoa/guessers/NaiveLetterFreqGuesser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ucb_CS61B/proj0/src/aoa/guessers/NaiveLetterFreqGuesser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ucb_CS61B/proj0/src/aoa/guessers/PatternAwareLetterFreqGuesser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ucb_CS61B/proj0/src/aoa/guessers/PatternAwareLetterFreqGuesser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ucb_CS61B/proj1a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ucb_CS61B/proj1a/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +60,7 @@
       <workItem from="1685099705626" duration="2000" />
       <workItem from="1685099726957" duration="606000" />
       <workItem from="1685159969608" duration="202000" />
+      <workItem from="1685535096515" duration="148000" />
     </task>
     <servers />
   </component>

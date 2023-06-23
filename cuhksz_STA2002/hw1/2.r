@@ -26,6 +26,18 @@ summary(false)
 var(false)
 sd(false)
 
+summary(felt)
+var(felt)
+sd(felt)
+
+summary(miserable)
+var(miserable)
+sd(miserable)
+
+summary(neutral)
+var(neutral)
+sd(neutral)
+
 # Boxplots
 par(mfrow = c(2, 2))
 boxplot(false)

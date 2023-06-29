@@ -31,9 +31,9 @@
     \frac{\mathbf{Var}(X_3)}{25} = \frac{1931}{720} \approx 2.682$$
     As a result, $\hat{\mu_2}$ has the smaller variance.\\
     (c)By equation $\mathbf{MSE} = \mathbf{Bias}^2 + \mathbf{Var}$, we have
-    $$\mathbf{{MSE}_1} = \mathbf{{Bias}_1}^2 + \mathbf{{Var}_1} = 0 + \frac{40}{9} = \frac{40}{9} \approx 4.444$$
-    $$\mathbf{{MSE}_2} = (\mathbf{{Bias}_2})^2 + \mathbf{{Var}_2} = -\frac{169}{3600}\mu_2 + \frac{1931}{720}  $$
-    For $\mu =3$, we further have $$\mathbf{{MSE}_2} = \frac{2287}{900} \approx 2.541 < \mathbf{{MSE}_1}$$
+    $$\mathbf{{MSE}_1} = (\mathbf{{Bias}_1})^2 + \mathbf{{Var}_1} = 0 + \frac{40}{9} = \frac{40}{9} \approx 4.444$$
+    $$\mathbf{{MSE}_2} = (\mathbf{{Bias}_2})^2 + \mathbf{{Var}_2} = \frac{169}{3600}\mu_2^2 + \frac{1931}{720}  $$
+    For $\mu =3$, we further have $$\mathbf{{MSE}_2} = \frac{1397}{450} \approx 3.104 < \mathbf{{MSE}_1}$$
     As a result, $\hat{\mu_2}$ has the smaller MSE.
 \end{problem}
 
@@ -106,20 +106,20 @@
 \begin{problem}
     \\
     (a)
-    Given $\sigma = 0.5$, $n = 20$, $1 - \alpha = 0.99$, two-sided estimation,
+    Given $\sigma = 0.5$, $n = 11$, $1 - \alpha = 0.99$, two-sided estimation,
     $$\mathbf{z}_{\alpha/2} = \mathbf{z}_{0.005} = 2.5758, \ \ \
-      \bar{x} = \frac{1}{11} \sum_{i = 1}^{11} = 13.755$$
+      \bar{x} = \frac{1}{11} \sum_{i = 1}^{11} = 13.7727$$
     For lower bound of CI, $$\mu \geq \bar{x} - \mathbf{z}_{\alpha} \times \frac{\sigma}{\sqrt{n}}
-                            = 13.755 - 2.5758 \times \frac{0.5}{\sqrt{20}} = 13.467$$
+                            = 13.755 - 2.5758 \times \frac{0.5}{\sqrt{11}} = 13.384$$
     For upper bound of CI, $$\mu \leq \bar{x} + \mathbf{z}_{\alpha} \times \frac{\sigma}{\sqrt{n}}
-                            = 13.755 + 2.5758 \times \frac{0.5}{\sqrt{20}} = 14.043$$
-    As a result, the confidence interval is $[13.467, 14.043].$  \\
+                            = 13.755 + 2.5758 \times \frac{0.5}{\sqrt{11}} = 14.161$$
+    As a result, the confidence interval is $[13.384, 14.161].$  \\
     (b)
     Since $1 - \alpha = 0.95$, one-sided estimation,  
     $$\mathbf{z}_{\alpha} = \mathbf{z}_{0.05} = 1.6449$$
     For lower bound of CI, $$\mu \geq \bar{x} - \mathbf{z}_{\alpha} \times \frac{\sigma}{\sqrt{n}}
-                            = 13.755 - 1.6449 \times \frac{0.5}{\sqrt{20}} = 13.571$$
-    As a result, the confidence interval is $[13.571, + \infty).$\\
+                            = 13.7727 - 1.6449 \times \frac{0.5}{\sqrt{11}} = 13.524$$
+    As a result, the confidence interval is $[13.524, + \infty).$\\
     (c)
     If $\bar{x}$ is used as an estimate of $\mu$, we can be 95\% (which implies, $\alpha = 0.05$) confident that the error $|\bar{x} - \mu|$
         will not exceed the specific amount $E$ when the sample size is 

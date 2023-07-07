@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d55304a-4a66-4af0-8f6a-bb89a362af3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedListDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proj1b/src/ArrayDeque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LaTeX/cuhksz_STA2002/hw1/code.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LaTeX/cuhksz_STA2002/hw1/hw1.aux" beforeDir="false" afterPath="$PROJECT_DIR$/../../LaTeX/cuhksz_STA2002/hw1/hw1.aux" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LaTeX/cuhksz_STA2002/hw1/hw1.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../LaTeX/cuhksz_STA2002/hw1/hw1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LaTeX/cuhksz_STA2002/hw1/hw1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../LaTeX/cuhksz_STA2002/hw1/hw1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LaTeX/cuhksz_STA2002/hw1/hw1.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../LaTeX/cuhksz_STA2002/hw1/hw1.synctex.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LaTeX/cuhksz_STA2002/hw1/hw1.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../../LaTeX/cuhksz_STA2002/hw1/hw1.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LaTeX/cuhksz_STA2002/hw1/plot-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LaTeX/cuhksz_STA2002/hw1/plot-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cuhksz_STA2002/hw1/.Rapp.history" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuhksz_STA2002/hw1/.Rapp.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cuhksz_STA2002/hw1/2.r" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuhksz_STA2002/hw1/2.r" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/LinkedListDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/LinkedListDequeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proj1b/tests/ArrayDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1b/tests/ArrayDequeTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="2d55304a-4a66-4af0-8f6a-bb89a362af3d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
